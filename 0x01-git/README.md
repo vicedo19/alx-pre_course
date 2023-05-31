@@ -1,1 +1,1 @@
-Start of my git journey
+Documenting changes to my master branch
